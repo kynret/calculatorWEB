@@ -38,11 +38,10 @@ body h1{
     grid-row-end: 5;
     padding: 15px;
     padding-bottom: 40px;
+    font-size: 350%;
+    flex-wrap: wrap;
 }
 
-.screen p {
-    font-size: 350%;
-}
 
 .keyboard{
     display:grid;
